@@ -6,7 +6,7 @@ theme:
   custom_dir: overrides
   palette:
     primary: white
-    accent: orange
+    accent: amber
   favicon: images/favicon.png
   //logo: images/logo.png
   features:
