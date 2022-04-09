@@ -17,7 +17,7 @@ Email: xcpan [dot] mail [at] gmail [dot] com
 
 ## News
 
-* [Feb. 2021] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout OpenReview [preprint](https://openreview.net/pdf?id=Ww5t4oo52W1).
+* [Feb. 2021] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [preprint](https://arxiv.org/abs/2203.07996).
 
 ## Education
 
@@ -38,13 +38,17 @@ Email: xcpan [dot] mail [at] gmail [dot] com
 
 	**Xichen Pan**, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
-	ACL 2022 Main Conference [[pdf](https://openreview.net/pdf?id=Ww5t4oo52W1)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
+	ACL 2022 Main Conference [[pdf](https://arxiv.org/abs/2203.07996)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
 
 ## Selected Projects
 
 * Audio-Visual Speech Recognition Toolkit
 
 	In Progress
+
+* [CS Masters Application](https://cs-masters-application.github.io/) 100+:star:
+
+	A GitHub page built for reference in selecting CS master programs in north America. The page is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
 * Horizon Robotics
