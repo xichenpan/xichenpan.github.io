@@ -39,13 +39,17 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Publications & Manuscripts
 
-**Integrating Word Boundaries for Word Level Lipreading**, *In Preparation*
+* **Integrating Word Boundaries for Word Level Lipreading**
 
-**Xichen Pan**, Yichen Gong and Zhouhan Lin
+	<u>Xichen Pan</u>, Yichen Gong and Zhouhan Lin
+
+	*EMNLP 2022 In Preparation*
 	
-**Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**, *ACL 2022 Main Conference* [[pdf](https://arxiv.org/abs/2203.07996)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
+* **Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-**Xichen Pan**, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+	<u>Xichen Pan</u>, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+
+	*ACL 2022 Main Conference* [[pdf](https://arxiv.org/abs/2203.07996)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
 
 ## Selected Projects
 
@@ -75,9 +79,3 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 *July – Sept. 2020*
 
 *Research Intern*
-
-## Skills
-
-**Programming:** C/C++, Python
-
-**Packages:** PyTorch, PyTorch Lightning, fairseq, transformers, OpenCV, h5py, NumPy, pandas, PyQt5
