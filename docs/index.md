@@ -39,17 +39,17 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Publications & Manuscripts
 
-* **Integrating Word Boundaries for Word Level Lipreading**
+**Integrating Word Boundaries for Word Level Lipreading**
 
-	<u>Xichen Pan</u>, Yichen Gong and Zhouhan Lin
+<u>Xichen Pan</u>, Yichen Gong and Zhouhan Lin
 
-	*EMNLP 2022 In Preparation*
+*EMNLP 2022 In Preparation*
 	
-* **Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
+**Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-	<u>Xichen Pan</u>, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
-	*ACL 2022 Main Conference* [[pdf](https://arxiv.org/abs/2203.07996)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
+*ACL 2022 Main Conference* [[pdf](https://arxiv.org/abs/2203.07996)][[code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)]
 
 ## Selected Projects
 
