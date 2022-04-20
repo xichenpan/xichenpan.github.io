@@ -57,7 +57,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 In Progress
 
-**[CS Masters Application](https://cs-masters-application.github.io/) 100+:star:**
+**[:fontawesome-brands-github:CS Masters Application](https://cs-masters-application.github.io/)100+:star:**
 
 A GitHub page built for reference in selecting CS master programs in north America. The page is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
