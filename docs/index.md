@@ -33,7 +33,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 *Sept. 2018 -- June 2022*
 
-***B.Eng. in Computer Science**, advised by [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html)*
+***B.Eng. in Computer Science (Excellent Graduate of Class 2022)**, advised by [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html)*
 
 *Multimodal (Audio-Visual) Deep Learning, Speech Recognition, Self-Supervised Learning*
 
