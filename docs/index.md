@@ -13,7 +13,7 @@ I am a final-year undergraduate student in Computer Science at [Shanghai Jiao To
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/Flash-321) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/CV.pdf)</span>
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/Flash-321) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/CV.pdf)</span>
 
 ## News
 
