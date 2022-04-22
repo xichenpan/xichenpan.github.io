@@ -25,7 +25,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 *Sept. 2022 -- June 2027 (expected)*
 
-***Ph.D. in Computer Science**, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
+***Ph.D. in Computer Science**, supervised by [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
 
 *Multimodal (Vision-Language) Deep Learning, Knowledge Representation*
 
