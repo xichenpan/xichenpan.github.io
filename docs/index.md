@@ -41,7 +41,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 **Integrating Word Boundaries for Word Level Lipreading**
 
-<u>Xichen Pan</u>, Yichen Gong and Zhouhan Lin
+<u>Xichen Pan</u>, Zekai Li, Yichen Gong and Zhouhan Lin
 
 *EMNLP 2022 In Preparation*
 	
