@@ -59,7 +59,7 @@ In Progress
 
 **[:fontawesome-brands-github: CS Masters Application](https://cs-masters-application.github.io/) [![](https://img.shields.io/github/stars/CS-Masters-Application/CS-Masters-Application.github.io.svg?style=social)](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io/stargazers)**
 
-A GitHub page built for reference in selecting CS master programs in north America. The page is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
+A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
 **Horizon Robotics**
