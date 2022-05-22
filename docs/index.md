@@ -17,7 +17,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## News
 
-[Feb. 2021] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout the [preprint](https://arxiv.org/abs/2203.07996).
+[Feb. 2021] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
@@ -41,15 +41,15 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 **Integrating Word Boundaries for Word Level Lipreading**
 
-<u>Xichen Pan</u>, Zekai Li, Yichen Gong and Zhouhan Lin
+<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
 *EMNLP 2022 In Preparation*
 	
 **Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-<u>Xichen Pan</u>, Peiyu chen , Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Peiyu chen, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
-*ACL 2022 Main Conference* [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
+[*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Selected Projects
 
