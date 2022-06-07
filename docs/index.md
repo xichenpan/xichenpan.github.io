@@ -9,7 +9,7 @@ hide:
 
 ## Bio
 
-I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
+I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
