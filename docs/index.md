@@ -17,7 +17,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## News
 
-[Feb. 2021] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
+[Feb. 2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
@@ -49,7 +49,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Outstanding Thesis)*
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis, 1st/150)*
 
 **Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
