@@ -41,11 +41,11 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Publications & Manuscripts
 
-**Integrating Word Boundaries for Word Level Lipreading**
+**Anonymous Submission**
 
-<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang and Zhouhan Lin
 
-*EMNLP 2022 In Preparation*
+*EMNLP 2022 Submission*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
