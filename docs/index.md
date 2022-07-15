@@ -53,7 +53,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 *Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)*
 
-**Leveraging Uni-Modal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
+**Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
 <u>Xichen Pan</u>, Peiyu chen, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
