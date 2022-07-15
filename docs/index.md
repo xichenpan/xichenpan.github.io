@@ -72,13 +72,13 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ## Experience
 **Horizon Robotics**
 
-*Apr. 2021 – Present*
+*Apr. 2021 – July 2022*
 
 *Research Intern*
 
 **John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**
 
-*Apr. 2021 – Present*
+*Apr. 2021 – June 2022*
 
 *Research Intern*
 
