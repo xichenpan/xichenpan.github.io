@@ -41,7 +41,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Publications & Manuscripts
 
-**Anonymous Submission**
+**Towards Diverse Lip Reading Representations**
 
 <u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang and Zhouhan Lin
 
