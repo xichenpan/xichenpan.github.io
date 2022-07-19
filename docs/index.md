@@ -55,7 +55,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-<u>Xichen Pan</u>, Peiyu chen, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Peiyu Chen, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
 
 [*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
