@@ -9,7 +9,7 @@ hide:
 
 ## Bio
 
-I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
+I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Currently I work as a Research Intern at Alibaba Group due to visa issue. My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
@@ -25,7 +25,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ### University of Waterloo
 
-*Sept. 2022 -- June 2027 (expected)*
+*May 2023 -- 2028 (expected)*
 
 ***Ph.D. in Computer Science**, supervised by [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
 
@@ -45,7 +45,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang and Zhouhan Lin
 
-*EMNLP 2022 Submission*
+*ICASSP 2023 Submission*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
@@ -70,6 +70,12 @@ In Progress
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
+**Alibaba Group**
+
+*Sept. 2021 – Present*
+
+*Research Intern*
+
 **Horizon Robotics**
 
 *Apr. 2021 – July 2022*
