@@ -9,7 +9,7 @@ hide:
 
 ## Bio
 
-I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Currently I work as a Research Intern at Alibaba Group due to visa issue. My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
+I currently a Research Intern at Alibaba Group. My research interest covers Multimodal Deep Learning, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
@@ -23,23 +23,19 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Education
 
-### University of Waterloo
-
-*May 2023 -- 2028 (expected)*
-
-***Ph.D. in Computer Science**, supervised by [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
-
-*Multimodal (Vision-Language) Deep Learning, Knowledge Representation*
-
 ### Shanghai Jiao Tong University
 
 *Sept. 2018 -- June 2022*
 
 ***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html)*
 
-*Multimodal (Audio-Visual) Deep Learning, Speech Recognition, Self-Supervised Learning*
+*Multimodal Deep Learning, Speech Recognition, Self-Supervised Learning*
 
 ## Publications & Manuscripts
+
+**Story Diffusion Models**
+
+*First Author Anonymous CVPR 2023 Submission*
 
 **Towards Diverse Lip Reading Representations**
 
@@ -61,10 +57,6 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Selected Projects
 
-**Audio-Visual Speech Recognition Toolkit**
-
-In Progress
-
 **[:fontawesome-brands-github: CS Masters Application](https://csmsapp.github.io/) [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg?style=social)](https://github.com/csmsapp/csmsapp.github.io/stargazers)**
 
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
@@ -72,7 +64,7 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ## Experience
 **Alibaba Group**
 
-*Sept. 2021 – Present*
+*Sept. 2022 – Present*
 
 *Research Intern*
 
