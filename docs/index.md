@@ -9,7 +9,7 @@ hide:
 
 ## Bio
 
-I currently a Research Intern at Alibaba Group. My research interest covers Multimodal Deep Learning, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
+I am currently a Research Assistant at Microsoft Research Asia, mentored [by Dr. Li Dong](http://scholar.google.com/citations?user=wEfQgPgAAAAJ&hl=en). My research interest lies in multimodal deep learning (including audio-visual and vision-language), especially multimodal representation learning and multimodal self-supervised pre-training. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain a close connection with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
@@ -29,17 +29,17 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html)*
 
-*Multimodal Deep Learning, Speech Recognition, Self-Supervised Learning*
-
 ## Publications & Manuscripts
 
-**Story Diffusion Models**
+**Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
-*First Author Anonymous CVPR 2023 Submission*
+<u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
+
+*Under Review [:academicons-arxiv:](http://arxiv.org/abs/2211.10950)*
 
 **Towards Diverse Lip Reading Representations**
 
-<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang, and Zhouhan Lin
 
 *ICASSP 2023 Submission*
 
@@ -51,7 +51,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-<u>Xichen Pan</u>, Peiyu Chen, Yichen Gong, Helong Zhou, Xinbing Wang and Zhouhan Lin
+<u>Xichen Pan</u>, Peiyu Chen, Yichen Gong, Helong Zhou, Xinbing Wang, and Zhouhan Lin
 
 [*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
@@ -62,9 +62,15 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
+**Microsoft Research Asia**
+
+*Nov. 2022 – Present*
+
+*StarBridge Program Research Assistant*
+
 **Alibaba Group**
 
-*Sept. 2022 – Present*
+*Sept. – Nov. 2022*
 
 *Research Intern*
 
