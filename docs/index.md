@@ -9,7 +9,7 @@ hide:
 
 ## Bio
 
-I am currently a Research Assistant at Microsoft Research Asia, mentored [by Dr. Li Dong](http://scholar.google.com/citations?user=wEfQgPgAAAAJ&hl=en). My research interest lies in multimodal deep learning (including audio-visual and vision-language), especially multimodal representation learning and multimodal self-supervised pre-training. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain a close connection with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU.
+I am currently a Research Assistant at Microsoft Research Asia, mentored by [Dr. Li Dong](http://scholar.google.com/citations?user=wEfQgPgAAAAJ&hl=en). My research interest lies in multimodal deep learning (including audio-visual and vision-language), especially multimodal representation learning and multimodal self-supervised pre-training. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain a close connection with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
