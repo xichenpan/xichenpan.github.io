@@ -97,4 +97,4 @@ Reviewer for ICASSP 2023
 
 ## Media Exposures
 
-[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://mp.weixin.qq.com/s/qUKfk6qIPdv47USQz1weMQ), SyncedTech
+[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
