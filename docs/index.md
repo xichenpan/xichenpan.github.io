@@ -91,3 +91,10 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 *July – Sept. 2020*
 
 *Research Intern*
+
+## Services
+Reviewer for ICASSP 2023
+
+## Media Exposures
+
+[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://mp.weixin.qq.com/s/qUKfk6qIPdv47USQz1weMQ), SyncedTech
