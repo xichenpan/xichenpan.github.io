@@ -92,9 +92,6 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 
 *Research Intern*
 
-## Services
-Reviewer for ICASSP 2023
-
 ## Media Exposures
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
