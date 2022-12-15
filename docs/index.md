@@ -41,7 +41,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang, and Zhouhan Lin
 
-*ICASSP 2023 Submission*
+*ICASSP 2023 Under Review*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
