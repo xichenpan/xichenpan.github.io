@@ -35,7 +35,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
 
-*CVPR 2023 Under Review [:academicons-arxiv:](http://arxiv.org/abs/2211.10950)*
+*CVPR 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/Flash-321/ARLDM)
 
 **Towards Diverse Lip Reading Representations**
 
