@@ -39,10 +39,10 @@ extra:
       link: https://www.zhihu.com/people/pan-xi-chen-54
     - icon: academicons/cv
       link: sources/CV.pdf
-
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
+    
 nav:
   - Home: index.md
   - Collaborators: Collaborators.md
