@@ -42,7 +42,7 @@ extra:
 
   analytics:
     provider: google
-    property: G-C9D61JHQY9
+    property: G-KBQPT9Q9MJ
 nav:
   - Home: index.md
   - Collaborators: Collaborators.md
