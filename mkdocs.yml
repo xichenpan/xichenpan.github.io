@@ -10,8 +10,6 @@ theme:
   favicon: images/favicon.png
   icon:
     logo: material/account-school
-  features:
-    - navigation.tabs
 plugins:
   []
 markdown_extensions:
