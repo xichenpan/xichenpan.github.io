@@ -98,7 +98,7 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 
 ## Some of My Friends
 
-??? info "Click to Expand"
+??? tip "Click to Expand"
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
     
     Shanghai Jiao Tong University: [Yanjie Ze](https://yanjieze.com/) 
