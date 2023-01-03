@@ -95,3 +95,12 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ## Media Exposures
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
+
+## Some of my Friends
+
+??? Click to expand
+    Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
+    
+    Shanghai Jiao Tong University: [Yanjie Ze](https://yanjieze.com/) 
+    
+    Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
