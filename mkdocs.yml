@@ -43,3 +43,6 @@ extra:
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
+
+extra_css:
+  - stylesheets/extra.css 
