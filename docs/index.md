@@ -47,7 +47,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)* [:fontawesome-regular-message](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)* [:fontawesome-regular-message:](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
