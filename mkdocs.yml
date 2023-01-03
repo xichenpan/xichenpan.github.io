@@ -45,7 +45,3 @@ extra:
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
-    
-nav:
-  - Home: index.md
-  - Collaborators: Collaborators.md
