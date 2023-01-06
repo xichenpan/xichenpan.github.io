@@ -105,5 +105,7 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     Shanghai Jiao Tong University: [Yanjie Ze](https://yanjieze.com/) 
     
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
+                         
+    UIUC: [Zihan Li](https://huanglizi.github.io/)
     
     Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
