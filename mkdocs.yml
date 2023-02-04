@@ -41,8 +41,8 @@ extra:
     - icon: academicons/cv
       link: sources/Xichen_CV.pdf
   analytics:
-    provider: custom
-    property: foobar
+    provider: google
+    property: G-KBQPT9Q9MJ
 
 extra_css:
   - stylesheets/extra.css 
