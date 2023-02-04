@@ -109,3 +109,5 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     UIUC: [Zihan Li](https://huanglizi.github.io/)
     
     Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
