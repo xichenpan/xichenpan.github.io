@@ -102,7 +102,7 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ??? tip "Click to Expand"
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
     
-    Shanghai Jiao Tong University: [Yanjie Ze](https://yanjieze.com/) 
+    Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/)
     
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
                          
