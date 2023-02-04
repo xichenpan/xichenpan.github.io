@@ -110,6 +110,14 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     
     Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
 
-<div align="center" width="25%">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
-</div>
+<table class="globe" cellpadding="0" cellspacing="4">
+    <!-- 4 columns -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="4" colspan="0" halign="right" width=200px>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
+      </td>
+    </tr>
+</table>
