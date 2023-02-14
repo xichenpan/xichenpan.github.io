@@ -119,9 +119,9 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 <div id="footer1">
     <h2> </h2>
     <div align="center">
-        <small>This site already has
-            <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a>
-        </a>visitors</small>
+        This site already has 
+            <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
+         visitors
     </div>
 </div>
 <p>
