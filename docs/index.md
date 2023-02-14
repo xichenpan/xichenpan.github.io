@@ -100,15 +100,16 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ## Some of My Friends
 
 ??? tip "Click to Expand"
+    Cornell: [Youming Deng](https://denghilbert.github.io/) 
+
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
     
     Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/)
     
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
                          
-    UIUC: [Zihan Li](https://huanglizi.github.io/)
+    University of Washington: [Zihan Li](https://huanglizi.github.io/)
     
-    Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
 
 <table class="globe" cellpadding="0" align="center">
     <!-- 4 columns -->
