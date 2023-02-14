@@ -1,6 +1,6 @@
 site_name: "Xichen Pan's Homepage"
 site_author: 'Xichen Pan'
-copyright: '&copy; 2022 Xichen Pan'
+copyright: '&copy; 2022-2023 Xichen Pan'
 theme:
   name: material
   custom_dir: overrides
@@ -10,14 +10,15 @@ theme:
   favicon: images/favicon.png
   icon:
     logo: material/account-school
-  features:
-    - navigation.tabs
 plugins:
   []
 markdown_extensions:
   - meta
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -38,11 +39,10 @@ extra:
     - icon: fontawesome/brands/zhihu 
       link: https://www.zhihu.com/people/pan-xi-chen-54
     - icon: academicons/cv
-      link: sources/CV.pdf
-
+      link: sources/Xichen_CV.pdf
   analytics:
     provider: google
-    property: G-C9D61JHQY9
-nav:
-  - Home: index.md
-  - Collaborators: Collaborators.md
+    property: G-KBQPT9Q9MJ
+
+extra_css:
+  - stylesheets/extra.css 

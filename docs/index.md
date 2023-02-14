@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 # Xichen Pan
@@ -9,55 +10,45 @@ hide:
 
 ## Bio
 
-I am a 0-year Ph.D. candidate in Computer Science at [Cheriton R. Computer Science School at University of Waterloo](https://cs.uwaterloo.ca/) and [Vector Institute](https://vectorinstitute.ai/), advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Currently I work as a Research Intern at Alibaba Group due to visa issue. My research interest covers Multimodal Deep Learning, Knowledge Representation, Speech Recognition, and Self-Supervised Learning. Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain closely connected with [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html) at SJTU and [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en) at Horizon Robotics.
+I am currently a Research Assistant at Microsoft Research Asia, mentored by Dr. [Li Dong](http://dong.li/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal self-supervised pre-training. I also interned at Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/Flash-321) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/CV.pdf)</span>
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/Flash-321) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/Xichen_CV.pdf)</span>
 
 ## News
 
-[June 2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html), checkout the [news](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
+[June 2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [news](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
 
 [Feb. 2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
-### University of Waterloo
-
-*May 2023 -- 2028 (expected)*
-
-***Ph.D. in Computer Science**, supervised by [Prof. Wenhu Chen](https://wenhuchen.github.io/)*
-
-*Multimodal (Vision-Language) Deep Learning, Knowledge Representation*
-
 ### Shanghai Jiao Tong University
 
 *Sept. 2018 -- June 2022*
 
-***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by [Prof. Zhouhan Lin](https://jhc.sjtu.edu.cn/people/members/faculty/zhouhan-lin.html)*
-
-*Multimodal (Audio-Visual) Deep Learning, Speech Recognition, Self-Supervised Learning*
+***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)*
 
 ## Publications & Manuscripts
 
-**Synthesizing Coherent Story with Auto-Regressive Latent Diffision Models**
+**Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
 
-*CVPR 2023 Submission*
+*CVPR 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/Flash-321/ARLDM)
 
 **Towards Diverse Lip Reading Representations**
 
 <u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang, and Zhouhan Lin
 
-*ICASSP 2023 Submission*
+*ICASSP 2023 Under Review*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)*
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)* [:fontawesome-regular-newspaper:](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
@@ -67,18 +58,20 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Selected Projects
 
-**Audio-Visual Speech Recognition Toolkit**
-
-In Progress
-
 **[:fontawesome-brands-github: CS Masters Application](https://csmsapp.github.io/) [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg?style=social)](https://github.com/csmsapp/csmsapp.github.io/stargazers)**
 
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
+**Microsoft Research Asia**
+
+*Nov. 2022 – Present*
+
+*StarBridge Program Research Assistant*
+
 **Alibaba Group**
 
-*Sept. 2022 – Present*
+*Sept. – Nov. 2022*
 
 *Research Intern*
 
@@ -99,3 +92,29 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 *July – Sept. 2020*
 
 *Research Intern*
+
+## Media Exposures
+
+[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
+
+## Some of My Friends
+
+??? tip "Click to Expand"
+    Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
+    
+    Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/)
+    
+    UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
+                         
+    UIUC: [Zihan Li](https://huanglizi.github.io/)
+    
+    Wuhan University: [Youming Deng](https://denghilbert.github.io/) 
+
+<table class="globe" cellpadding="0" align="center">
+    <!-- 4 columns -->
+    <tr>
+      <td rowspan="4" colspan="0" halign="center" width=200px>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
+      </td>
+    </tr>
+</table>
