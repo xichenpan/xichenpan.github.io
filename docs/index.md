@@ -116,12 +116,18 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
                          
     University of Washington: [Zihan Li](https://huanglizi.github.io/)
     
-
-<table class="globe" cellpadding="0" align="center">
-    <!-- 4 columns -->
-    <tr>
-      <td rowspan="4" colspan="0" halign="center" width=200px>
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
-      </td>
-    </tr>
-</table>
+<div id="footer1">
+    <h2> </h2>
+    <div align="center">
+        <small>This site already has
+            <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a>
+        </a>visitors</small>
+    </div>
+</div>
+<p>
+    <center>
+        <div align="center" style="width:20%">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
+        </div>
+    </center>
+</p>
