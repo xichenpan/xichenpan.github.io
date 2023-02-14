@@ -24,6 +24,12 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Education
 
+### New York University Courant Institute
+
+*Sept. 2023 -- June 2028 (expected)*
+
+***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
+
 ### Shanghai Jiao Tong University
 
 *Sept. 2018 -- June 2022*
