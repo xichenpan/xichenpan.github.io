@@ -118,16 +118,14 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     
     USC: [Di Chang](https://boese0601.github.io/)
     
-<div id="footer1">
-    <div align="center">
-        This Site Already Has 
-            <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
-         Visitors
-    </div>
+<div align="center">
+    This Site Already Has 
+        <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
+     Visitors
 </div>
 
-<center>
+<p align="center">
     <div align="center" style="width:20%">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
     </div>
-</center>
+</p>
