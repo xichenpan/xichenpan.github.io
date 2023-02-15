@@ -5,7 +5,7 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    primary: deep purple
+    primary: white
     accent: deep purple
   favicon: images/nyulogo.png
   icon:
