@@ -6,9 +6,7 @@ hide:
 
 # Xichen Pan
 
-![Image title](images/por.png){ align=right style="zoom:50%;"}
-
-## Bio
+## Bio![Image title](images/por.png){ align=right style="zoom:50%;"}
 
 I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). Currently, I work as a Research Assistant at Microsoft Research Asia, mentored by Dr. [Li Dong](http://dong.li/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal pre-training. I also interned at Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the Best Thesis Award. I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
 
@@ -24,7 +22,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## Education
 
-### New York University Courant Institute
+### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em;"}
 
 *Sept. 2023 -- June 2028 (expected)*
 
@@ -69,31 +67,31 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
-**Microsoft Research Asia**
+**Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:6em;"}
 
 *Nov. 2022 – Present*
 
 *StarBridge Program Research Assistant*
 
-**Alibaba Group**
+**Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:6em;"}
 
 *Sept. – Nov. 2022*
 
 *Research Intern*
 
-**Horizon Robotics**
+**Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:6em;"}
 
 *Apr. 2021 – July 2022*
 
 *Research Intern*
 
-**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**
+**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:6em;"}
 
 *Apr. 2021 – June 2022*
 
 *Research Intern*
 
-**NSF Center for Big Learning, University of Florida**
+**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:6em;"}
 
 *July – Sept. 2020*
 
@@ -121,7 +119,6 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     USC: [Di Chang](https://boese0601.github.io/)
     
 <div id="footer1">
-    <h2> </h2>
     <div align="center">
         This Site Already Has 
             <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
