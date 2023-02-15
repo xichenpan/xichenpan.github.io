@@ -125,7 +125,7 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
          Visitors
     </div>
 
-    <div align="center" style="width:20%; margin:0; auto;">
+    <div align="center" style="width:20%">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
     </div>
 </div>
