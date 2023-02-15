@@ -30,8 +30,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
 
-![Image title](images/favicon.png){ align=right style="height:3em;"}
-
+![Image title](images/favicon.png){ align=right style="height:20em;"}
 ### Shanghai Jiao Tong University
 
 *Sept. 2018 -- June 2022*
