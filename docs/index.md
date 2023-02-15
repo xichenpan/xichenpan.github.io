@@ -106,6 +106,8 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
 ## Some of My Friends
 
 ??? tip "Click to Expand"
+    Carnegie Mellon University: [Alex Chi](https://www.skyzh.dev/)
+
     Cornell: [Youming Deng](https://denghilbert.github.io/) 
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
@@ -115,6 +117,8 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
                          
     University of Washington: [Zihan Li](https://huanglizi.github.io/)
+    
+    USC: [Di Chang](https://boese0601.github.io/)
     
 <div id="footer1">
     <h2> </h2>
