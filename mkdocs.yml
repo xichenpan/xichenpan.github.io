@@ -13,6 +13,9 @@ theme:
   features:
     - content.action.edit
     
+plugins:
+  []
+  
 markdown_extensions:
   - meta
   - attr_list
