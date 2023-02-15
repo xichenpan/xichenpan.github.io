@@ -12,6 +12,7 @@ theme:
     logo: material/account-school
   features:
     - content.action.edit
+    
 plugins:
   []
 markdown_extensions:
