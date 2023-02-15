@@ -117,15 +117,15 @@ A GitHub page built for reference in selecting CS master programs in north Ameri
     University of Washington: [Zihan Li](https://huanglizi.github.io/)
     
     USC: [Di Chang](https://boese0601.github.io/)
-    
-<div align="center">
-    This Site Already Has 
-        <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
-     Visitors
-</div>
 
-<p align="center">
+<div align="center">
+    <div align="center">
+        This Site Already Has 
+            <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
+         Visitors
+    </div>
+
     <div align="center" style="width:20%">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NzVN7enJET3FI1_-kZPt_SdR71BmlZmgzOO08Edn_Nc"></script>
     </div>
-</p>
+</div>
