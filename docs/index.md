@@ -67,31 +67,31 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
-**Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:6em;"}
+**Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
 
 *Nov. 2022 – Present*
 
 *StarBridge Program Research Assistant*
 
-**Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:6em;"}
+**Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em;"}
 
 *Sept. – Nov. 2022*
 
 *Research Intern*
 
-**Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:6em;"}
+**Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em;"}
 
 *Apr. 2021 – July 2022*
 
 *Research Intern*
 
-**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:6em;"}
+**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em;"}
 
 *Apr. 2021 – June 2022*
 
 *Research Intern*
 
-**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:6em;"}
+**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em;"}
 
 *July – Sept. 2020*
 
