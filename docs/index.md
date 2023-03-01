@@ -12,7 +12,7 @@ I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.n
 
 Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/Flash-321) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/Xichen_CV.pdf)</span>
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/Xichen_CV.pdf)</span>
 
 ## News
 
@@ -40,7 +40,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
 
-*CVPR 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/Flash-321/ARLDM)
+*CVPR 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
 
 **Towards Diverse Lip Reading Representations**
 
