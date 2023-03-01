@@ -16,7 +16,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 ## News
 
-[June 2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [news](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
+[June 2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
 
 [Feb. 2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
 
@@ -52,7 +52,7 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)* [:fontawesome-regular-newspaper:](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)* [:fontawesome-regular-newspaper:](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm) [:fontawesome-solid-graduation-cap:](https://sjcg.jwc.sjtu.edu.cn/)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
