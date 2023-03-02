@@ -44,9 +44,9 @@ Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 **Towards Diverse Lip Reading Representations**
 
-<u>Xichen Pan</u>, Zekai Li, Yichen Gong, Xinbing Wang, and Zhouhan Lin
+<u>Xichen Pan</u>, Yichen Gong, and Zhouhan Lin
 
-*Interspeech 2023 Submission*
+*ACM Multimedia 2023 Submission*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
