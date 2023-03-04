@@ -12,7 +12,7 @@ I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.n
 
 Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu) | [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xcpan.mail@gmail.com) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/Xichen_CV.pdf)</span>
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xichenpan@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54) [:academicons-cv:](sources/Xichen_CV.pdf)</span>
 
 ## News
 
