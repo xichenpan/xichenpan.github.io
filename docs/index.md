@@ -42,7 +42,7 @@ I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.n
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
 
-*ICCV 2023 Submission* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
+*ICCV 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
 
 **Towards Diverse Lip Reading Representations**
 
