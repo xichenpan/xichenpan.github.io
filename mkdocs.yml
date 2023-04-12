@@ -47,6 +47,6 @@ extra:
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
-
+edit_uri: edit/master/docs/
 extra_css:
   - stylesheets/extra.css 
