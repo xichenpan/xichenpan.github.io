@@ -48,5 +48,6 @@ extra:
     provider: google
     property: G-KBQPT9Q9MJ
 edit_uri: edit/master/docs/
+repo_url: https://github.com/xichenpan/xichenpan.github.io
 extra_css:
   - stylesheets/extra.css 
