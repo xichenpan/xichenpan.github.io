@@ -64,9 +64,9 @@ I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.n
 
 ## Selected Projects
 
-**[:fontawesome-brands-github: CS Masters Application](https://csmsapp.github.io/) [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg?style=social)](https://github.com/csmsapp/csmsapp.github.io/stargazers)**
+**[:fontawesome-brands-github: Open CS Application](https://opencs.app/) [![](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io.svg?style=social)](https://github.com/opencsapp/opencsapp.github.io/stargazers)**
 
-A GitHub page built for reference in selecting CS master programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
+An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Experience
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
