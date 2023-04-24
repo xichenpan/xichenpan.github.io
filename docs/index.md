@@ -44,12 +44,6 @@ I am an incoming Ph.D. student of Computer Science at [NYU Courant](https://cs.n
 
 *ICCV 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
 
-**Towards Diverse Lip Reading Representations**
-
-<u>Xichen Pan</u>, Yichen Gong, and Zhouhan Lin
-
-*ACM Multimedia 2023 Submission*
-
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
 <u>Xichen Pan</u>
