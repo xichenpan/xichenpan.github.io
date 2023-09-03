@@ -65,7 +65,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 ## Experience
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
 
-*Nov. 2022 – Present*
+*Nov. 2022 – Sept. 2023*
 
 *StarBridge Program Research Assistant*
 
