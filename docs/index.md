@@ -26,7 +26,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em;"}
 
-*Sept. 2023 -- June 2028 (expected)*
+*Sept. 2023 -- Present*
 
 ***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
 
