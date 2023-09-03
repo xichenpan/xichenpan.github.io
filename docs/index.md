@@ -42,7 +42,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
 
-*ICCV 2023 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
+*WACV 2024 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
