@@ -40,6 +40,12 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## Publications & Manuscripts
 
+**Generating Images in Context with Multimodal Large Language Models**
+
+<u>Xichen Pan</u>, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, and Furu Wei
+
+*ICLR 2024 Under Review*
+
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
