@@ -44,7 +44,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, and Furu Wei
 
-*ICLR 2024 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/) [:fontawesome-brands-github:](https://aka.ms/Kosmos-G) [:fontawesome-solid-globe-pointer:](kosmosg)
+*ICLR 2024 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/) [:fontawesome-brands-github:](https://aka.ms/Kosmos-G) [:fontawesome-solid-link:](kosmosg)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
