@@ -40,7 +40,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## Publications & Manuscripts
 
-**Generating Images in Context with Multimodal Large Language Models**
+**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
 <u>Xichen Pan</u>, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, and Furu Wei
 
