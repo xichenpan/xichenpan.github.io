@@ -19,10 +19,13 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 <span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xichenpan@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54)</span>
 
 ## News
+[09/2023] Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
-[June 2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
+[12/2022] Glad to start working as a research intern at Microsoft Research Asia with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/).
 
-[Feb. 2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
+[06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
+
+[02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
