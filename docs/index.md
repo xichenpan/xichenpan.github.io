@@ -67,12 +67,6 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 [*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
-## Selected Projects
-
-**[:fontawesome-brands-github: Open CS Application](https://opencs.app/) [![](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io.svg?style=social)](https://github.com/opencsapp/opencsapp.github.io/stargazers)**
-
-An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
-
 ## Experience
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
 
@@ -103,6 +97,12 @@ An open-source GitHub page built for reference in selecting CS programs in north
 *July – Sept. 2020*
 
 *Research Intern*
+
+## Selected Projects
+
+**[:fontawesome-brands-github: Open CS Application](https://opencs.app/) [![](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io.svg?style=social)](https://github.com/opencsapp/opencsapp.github.io/stargazers)**
+
+An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ## Media Exposures
 
