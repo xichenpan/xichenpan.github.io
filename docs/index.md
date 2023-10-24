@@ -24,7 +24,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 [09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
-[12/2022] Glad to work as a research intern at Microsoft Research Asia with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) for the upcoming year, leading up to Fall 2023.
+[12/2022] Glad to work with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) at Microsoft Research Asia for the upcoming year, leading up to Fall 2023.
 
 [06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
 
