@@ -20,15 +20,15 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## News
 
-[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024, checkout the paper [here](http://arxiv.org/abs/2211.10950).
+[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024, check it out [here](http://arxiv.org/abs/2211.10950).
 
 [09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
-[12/2022] Glad to start working as a research intern at Microsoft Research Asia with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/).
+[12/2022] Glad to work as a research intern at Microsoft Research Asia with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) for the upcoming year, leading up to Fall 2023.
 
 [06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
 
-[02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, checkout [full paper](https://aclanthology.org/2022.acl-long.308/).
+[02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
