@@ -19,7 +19,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 <span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xichenpan@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54)</span>
 
 ## News
-[09/2023] Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
+[09/2023] Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/) :party_popper:
 
 [12/2022] Glad to start working as a research intern at Microsoft Research Asia with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/).
 
@@ -45,13 +45,13 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
-<u>Xichen Pan</u>, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, and Furu Wei
+<u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), and [Furu Wei](https://thegenerality.com/)
 
 *ICLR 2024 Under Review* [:academicons-arxiv:](https://arxiv.org/abs/2310.02992) [:fontawesome-brands-github:](https://aka.ms/Kosmos-G) [:fontawesome-solid-link:](kosmosg)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
-<u>Xichen Pan</u>, Pengda Qin, Yuhong Li, Hui Xue, and Wenhu Chen
+<u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), and [Wenhu Chen](https://wenhuchen.github.io/)
 
 *WACV 2024 Under Review* [:academicons-arxiv:](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github:](https://github.com/xichenpan/ARLDM)
 
@@ -63,7 +63,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
-<u>Xichen Pan</u>, Peiyu Chen, Yichen Gong, Helong Zhou, Xinbing Wang, and Zhouhan Lin
+<u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), and [Zhouhan Lin](https://hantek.github.io/)
 
 [*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
@@ -76,13 +76,13 @@ An open-source GitHub page built for reference in selecting CS programs in north
 ## Experience
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
 
-*Nov. 2022 – Sept. 2023*
+*Dec. 2022 – Sept. 2023*
 
 *StarBridge Program Research Assistant*
 
 **Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em;"}
 
-*Sept. – Nov. 2022*
+*Sept. – Dec. 2022*
 
 *Research Intern*
 
