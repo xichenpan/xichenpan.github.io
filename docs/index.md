@@ -32,13 +32,13 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## Education
 
-### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em;"}
+### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
 *Sept. 2023 -- Present*
 
 ***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
 
-### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em;"}
+### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
 *Sept. 2018 -- June 2022*
 
@@ -71,31 +71,31 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 [*ACL 2022 Main Conference*](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv:](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github:](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Experience
-**Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em;"}
+**Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *Dec. 2022 – Sept. 2023*
 
 *StarBridge Program Research Assistant*
 
-**Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em;"}
+**Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *Sept. – Dec. 2022*
 
 *Research Intern*
 
-**Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em;"}
+**Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *Apr. 2021 – July 2022*
 
 *Research Intern*
 
-**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em;"}
+**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *Apr. 2021 – June 2022*
 
 *Research Intern*
 
-**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em;"}
+**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *July – Sept. 2020*
 
