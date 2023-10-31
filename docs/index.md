@@ -4,11 +4,7 @@ hide:
   - toc
 ---
 
-# Xichen Pan
-
-## Bio![Image title](images/por.jpg){ align=right style="width:10em; margin-left: 0.5em; margin-bottom: 0.5em;"}
-
-I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal generative models. I also interned at Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
+# Xichen Pan ![Image title](images/por.jpg){ align=right style="width:10em; margin-left: 0.5em; margin-bottom: 0.5em;"}
 
 *:fontawesome-solid-building: Office: [3rd Floor, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)*
 
@@ -17,6 +13,10 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 *:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)*
 
 <span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xichenpan@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/pan-xi-chen-54)</span>
+
+## Bio
+
+I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal generative models. I also interned at Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
 
 ## News
 
