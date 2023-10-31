@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Xichen Pan ![Image title](images/por.jpg){ align=right style="width:8em;"}
+# Xichen Pan ![Image title](images/por.jpg){ align=right style="width:8em; margin-right: 1em;"}
 
 *:fontawesome-solid-building: Office: [3rd Floor, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)*
 
