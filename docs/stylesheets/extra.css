@@ -1,6 +1,12 @@
 .md-grid {
   max-width: 1280px; 
 }
+
+.md-content {
+  --md-typeset-color:                  hsla(272, 91%, 29%, 1);
+  --md-typeset-a-color:                hsla(272, 91%, 29%, 1);
+}
+
 :root {
   --md-accent-fg-color:                hsla(272, 91%, 29%, 1);
   --md-accent-fg-color--transparent:   hsla(272, 91%, 29%, 0.1);
@@ -10,3 +16,4 @@
   --md-typeset-a-color:                hsla(272, 91%, 29%, 1);
   --md-text-link-color:                hsla(272, 91%, 29%, 1);
 }
+
