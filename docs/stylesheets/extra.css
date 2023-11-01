@@ -1,3 +1,9 @@
 .md-grid {
   max-width: 1280px; 
 }
+:root {
+  --md-accent-fg-color:                hsla(#{hex2hsl(#57068C)}, 1);
+  --md-accent-fg-color--transparent:   hsla(#{hex2hsl(#57068C)}, 0.1);
+  --md-accent-bg-color:                hsla(#{hex2hsl(#57068C)}, 1);
+  --md-accent-bg-color--light:         hsla(#{hex2hsl(#57068C)} 0.7);
+}
