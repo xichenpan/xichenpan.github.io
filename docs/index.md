@@ -62,7 +62,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150) [[:fontawesome-regular-newspaper: News]](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm) [[:fontawesome-solid-graduation-cap: Honor Roll]](https://sjcg.jwc.sjtu.edu.cn/)*
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150) [:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm) [:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)*
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
