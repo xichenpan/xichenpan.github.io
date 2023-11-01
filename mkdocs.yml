@@ -6,7 +6,7 @@ theme:
   custom_dir: overrides
   palette:
     primary: white
-    accent: amber
+    accent: orange
   favicon: images/nyulogo.png
   icon:
     logo: material/account-school
