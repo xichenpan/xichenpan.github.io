@@ -50,19 +50,19 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*ICLR 2024 Under Review [[:academicons-arxiv: arXiv]](https://arxiv.org/abs/2310.02992) [[:fontawesome-brands-github: Code]](https://aka.ms/Kosmos-G) [[:fontawesome-solid-link: Project Page]](kosmosg) *
+*ICLR 2024 Under Review [[:academicons-arxiv: arXiv]](https://arxiv.org/abs/2310.02992) [[:fontawesome-brands-github: Code]](https://aka.ms/Kosmos-G) [[:fontawesome-solid-link: Project Page]](kosmosg)*
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
 
-*WACV 2024 [[:academicons-arxiv: arXiv]](http://arxiv.org/abs/2211.10950) [[:fontawesome-brands-github: Code]](https://github.com/xichenpan/ARLDM) *
+*WACV 2024 [[:academicons-arxiv: arXiv]](http://arxiv.org/abs/2211.10950) [[:fontawesome-brands-github: Code]](https://github.com/xichenpan/ARLDM)*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150) [[:fontawesome-regular-newspaper: News]](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm) [[:fontawesome-solid-graduation-cap: Honor Roll]](https://sjcg.jwc.sjtu.edu.cn/) *
+*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150) [[:fontawesome-regular-newspaper: News]](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm) [[:fontawesome-solid-graduation-cap: Honor Roll]](https://sjcg.jwc.sjtu.edu.cn/)*
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
