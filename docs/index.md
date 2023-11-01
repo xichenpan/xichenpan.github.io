@@ -50,13 +50,13 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*ICLR 2024 Under Review [[:academicons-arxiv: arXiv]](https://arxiv.org/abs/2310.02992) [[:fontawesome-brands-github: Code]](https://aka.ms/Kosmos-G) [[:fontawesome-solid-link: Project Page]](kosmosg)*
+*ICLR 2024 Under Review [:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992) [:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G) [:fontawesome-solid-link: Project Page](kosmosg)*
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
 
-*WACV 2024 [[:academicons-arxiv: arXiv]](http://arxiv.org/abs/2211.10950) [[:fontawesome-brands-github: Code]](https://github.com/xichenpan/ARLDM)*
+*WACV 2024 [:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950) [:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)*
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
@@ -68,7 +68,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
 
-*[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/) [[:academicons-arxiv: arXiv]](https://arxiv.org/abs/2203.07996) [[:fontawesome-brands-github: Code]](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)*
+*[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/) [:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996) [:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)*
 
 ## Experience
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
