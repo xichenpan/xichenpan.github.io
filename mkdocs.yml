@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/xichen_pan
     - icon: fontawesome/brands/zhihu 
-      link: https://www.zhihu.com/people/pan-xi-chen-54
+      link: https://www.zhihu.com/people/xichenpan
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
