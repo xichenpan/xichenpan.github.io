@@ -46,6 +46,12 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## Publications & Manuscripts
 
+**Image Sculpting: Precise Object Editing with 3D Geometry Control**
+
+[Jiraphon Yenphraphai](https://scholar.google.com/citations?user=8K0ZSgn1z2YC&hl=en), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
+
+*CVPR 2024 Under Review*&nbsp;&nbsp;
+
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
