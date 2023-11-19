@@ -48,7 +48,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 **Image Sculpting: Precise Object Editing with 3D Geometry Control**
 
-[Jiraphon Yenphraphai](https://scholar.google.com/citations?user=8K0ZSgn1z2YC&hl=en), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
+[Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
 *CVPR 2024 Under Review*&nbsp;&nbsp;
 
