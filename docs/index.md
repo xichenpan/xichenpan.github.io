@@ -20,7 +20,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## News
 
-[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024, check it out [here](http://arxiv.org/abs/2211.10950).
+[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](http://arxiv.org/abs/2211.10950).
 
 [09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
