@@ -22,8 +22,10 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ### Generative Models
 Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
-* Preserving spatial and temporal consistency
-* Leveraging text-to-image priors for advanced applications
+
+- Preserving spatial and temporal consistency
+
+- Leveraging text-to-image priors for advanced applications
 
 ### Multimodal Learning
 Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
