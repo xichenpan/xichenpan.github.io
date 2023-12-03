@@ -16,7 +16,17 @@ hide:
 
 ## Bio
 
-I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal generative models. I also interned at Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
+I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I interned at Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
+
+## Research Interest
+
+### Generative Models
+Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
+* Preserving spatial and temporal consistency
+* Leveraging text-to-image priors for advanced applications
+
+### Multimodal Learning
+Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
 
 ## News
 
