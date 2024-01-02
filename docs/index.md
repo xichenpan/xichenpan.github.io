@@ -62,13 +62,13 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-*CVPR 2024 Under Review*&nbsp;&nbsp;
+*In Submission*&nbsp;&nbsp;
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*ICLR 2024 Under Review*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](kosmosg)
+*In Submission*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](kosmosg)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
