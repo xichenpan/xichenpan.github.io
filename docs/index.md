@@ -62,7 +62,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-*In Submission*&nbsp;&nbsp;
+*In Submission*&nbsp;&nbsp; [:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
