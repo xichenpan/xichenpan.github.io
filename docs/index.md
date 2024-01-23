@@ -134,17 +134,19 @@ An open-source GitHub page built for reference in selecting CS programs in north
 ## Some of My Friends
 
 ??? tip "Click to Expand"
-    Carnegie Mellon University: [Alex Chi](https://www.skyzh.dev/)
+    CMU: [Alex Chi](https://www.skyzh.dev/)
 
     Cornell: [Youming Deng](https://denghilbert.github.io/) 
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
+
+    Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
     
     Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/), [Junyi Zhang](https://www.junyi42.com/)
     
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
 
-    University of Michigan: [Yiming Dou](https://dou-yiming.github.io/)
+    UMich: [Yiming Dou](https://dou-yiming.github.io/)
                          
     University of Washington: [Zihan Li](https://huanglizi.github.io/)
     
