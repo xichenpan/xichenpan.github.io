@@ -34,7 +34,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [10/2023] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
 
-[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](http://arxiv.org/abs/2211.10950).
+[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html).
 
 [09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
@@ -76,7 +76,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
 
-*WACV 2024 (Oral, Top 6% of accepted papers)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
+*[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
