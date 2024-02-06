@@ -131,9 +131,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
 
-## Some of My Friends
-
-??? tip "Click to Expand"
+??? tip "Some of My Friends"
     CMU: [Alex Chi](https://www.skyzh.dev/)
 
     Cornell: [Youming Deng](https://denghilbert.github.io/) 
