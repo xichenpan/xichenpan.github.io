@@ -34,7 +34,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [02/2024] I will join :fontawesome-brands-meta: Meta GenAI as a Research Scientist Intern in 2024 Summer. See you in Menlo Park!
 
-[10/2023] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
+[01/2024] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
 
 [10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html).
 
