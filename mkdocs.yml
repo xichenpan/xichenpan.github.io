@@ -1,6 +1,6 @@
 site_name: "Xichen Pan's Homepage"
 site_author: 'Xichen Pan'
-copyright: '&copy; 2022-2023 Xichen Pan'
+copyright: '&copy; 2022-2024 Xichen Pan'
 theme:
   name: material
   custom_dir: overrides
