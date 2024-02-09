@@ -134,15 +134,19 @@ An open-source GitHub page built for reference in selecting CS programs in north
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
 
 ??? tip "Some of My Friends"
-    CMU: [Alex Chi](https://www.skyzh.dev/)
-
     Cornell: [Youming Deng](https://denghilbert.github.io/) 
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
+    
+    Neon, Inc.: [Alex Chi (Prev: CMU)](https://www.skyzh.dev/)
 
+    New York University: [Hexu Zhao](https://tarzanzhao.github.io/)
+    
     Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
     
     Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/), [Junyi Zhang](https://www.junyi42.com/)
+
+    UC Berkeley: [Yichuan Wang](https://yichuan520030910320.github.io/)
     
     UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
 
