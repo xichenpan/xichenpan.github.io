@@ -32,21 +32,27 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 ## News
 
-[02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/).
+=== "2024"
 
-[02/2024] I will join :fontawesome-brands-meta: Meta GenAI as a Research Scientist Intern in 2024 Summer. See you in Menlo Park!
+    [02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/).
+    
+    [02/2024] I will join :fontawesome-brands-meta: Meta GenAI as a Research Scientist Intern in 2024 Summer. See you in Menlo Park!
+    
+    [01/2024] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
 
-[01/2024] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
+=== "2023"
 
-[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html).
+    [10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024 as Oral, check it out [here](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html).
+    
+    [09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
 
-[09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
+=== "2022"
 
-[12/2022] Glad to work with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) at Microsoft Research Asia for the upcoming year, leading up to Fall 2023.
-
-[06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
-
-[02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
+    [12/2022] Glad to work with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) at Microsoft Research Asia for the upcoming year, leading up to Fall 2023.
+    
+    [06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
+    
+    [02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
 
 ## Education
 
