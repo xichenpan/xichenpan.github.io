@@ -32,6 +32,8 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 ## News
 
+[02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/).
+
 [02/2024] I will join :fontawesome-brands-meta: Meta GenAI as a Research Scientist Intern in 2024 Summer. See you in Menlo Park!
 
 [01/2024] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
@@ -66,7 +68,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-*In Submission*&nbsp;&nbsp; [:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+*CVPR 2024*&nbsp;&nbsp; [:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
