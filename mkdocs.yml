@@ -29,7 +29,9 @@ markdown_extensions:
           - overrides/.icons
   - pymdownx.tabbed:
       alternate_style: true
-
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 extra:
   social:
     - icon: fontawesome/solid/envelope 
