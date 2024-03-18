@@ -80,7 +80,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*ICLR 2024*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
+*[ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
