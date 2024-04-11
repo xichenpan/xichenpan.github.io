@@ -141,6 +141,10 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
 
+## Academic Service
+
+ICML'24, ACL'24, ECCV'24
+
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/) 
 
