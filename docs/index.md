@@ -34,11 +34,11 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 === "2024"
 
-    [02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/).
+    [02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/). See you in Seattle!
     
     [02/2024] I will join :fontawesome-brands-meta: Meta GenAI as a Research Scientist Intern in 2024 Summer. See you in Menlo Park!
     
-    [01/2024] :church: Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/). See you in Vienna!
+    [01/2024] Our paper was accepted by ICLR 2024, check it out [here](https://xichenpan.com/kosmosg/).
 
 === "2023"
 
