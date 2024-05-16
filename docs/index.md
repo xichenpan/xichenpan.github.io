@@ -146,21 +146,23 @@ An open-source GitHub page built for reference in selecting CS programs in north
 ICML'24, ACL'24, ECCV'24
 
 ??? tip "Some of My Friends"
-    Cornell: [Youming Deng](https://denghilbert.github.io/) 
+    Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
+
+    CMU: [Kexun Zhang](https://zkx06111.github.io/)
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
     
-    Neon, Inc.: [Alex Chi (Prev: CMU)](https://www.skyzh.dev/)
+    Neon, Inc.: [Alex Chi](https://www.skyzh.dev/)
 
-    New York University: [Hexu Zhao](https://tarzanzhao.github.io/)
+    New York University: [List of My Labmates](https://www.sainingxie.com/), [Hexu Zhao](https://tarzanzhao.github.io/)
     
     Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
     
-    Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/), [Yanjie Ze](https://yanjieze.com/), [Junyi Zhang](https://www.junyi42.com/)
+    Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/)
 
-    UC Berkeley: [Yichuan Wang](https://yichuan520030910320.github.io/)
-    
-    UC Santa Barbara: [Kexun Zhang](https://zkx06111.github.io/)
+    Stanford: [Yanjie Ze](https://yanjieze.com/)
+
+    UC Berkeley: [Junyi Zhang](https://www.junyi42.com/), [Yichuan Wang](https://yichuan520030910320.github.io/)
 
     UMich: [Yiming Dou](https://dou-yiming.github.io/)
                          
