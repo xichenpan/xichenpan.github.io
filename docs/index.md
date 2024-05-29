@@ -101,6 +101,13 @@ Developing vision-language models for vision-centric applications, focusing on r
 *[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Experience
+
+**Meta GenAI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
+
+*May. 2024 – Aug. 2024*
+
+*Research Scientist Intern*
+
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
 *Dec. 2022 – Sept. 2023*
