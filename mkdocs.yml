@@ -10,6 +10,8 @@ theme:
   favicon: images/nyulogo.png
   icon:
     logo: material/account-school
+  font:
+    text: Gabarito
     
 plugins:
   []
