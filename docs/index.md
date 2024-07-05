@@ -6,11 +6,11 @@ hide:
 
 # Xichen Pan ![Image title](images/por.jpg){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
 
-*:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)*
+:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)
 
-*:fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)*
+:fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)
 
-*:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)*
+:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
 <span style=font-size:2em;">[:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-x-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/xichenpan)</span>
 
@@ -58,15 +58,15 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 ### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
-*Sept. 2023 -- Present*
+Sept. 2023 -- Present
 
-***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
+**Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)
 
 ### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
-*Sept. 2018 -- June 2022*
+Sept. 2018 -- June 2022
 
-***B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)*
+**B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)
 
 ## Publications & Manuscripts
 
@@ -74,69 +74,69 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-*CVPR 2024*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+CVPR 2024&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
 <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
 
-*[ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
+[ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
 
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
 
 <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
 
-*[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
+[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
 
 <u>Xichen Pan</u>
 
-*Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)*&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
+Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
 
 **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
 
 <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
 
-*[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
+[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Experience
 
 **Meta GenAI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*May. 2024 – Aug. 2024*
+May. 2024 – Aug. 2024
 
-*Research Scientist Intern*
+Research Scientist Intern
 
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Dec. 2022 – Sept. 2023*
+Dec. 2022 – Sept. 2023
 
-*StarBridge Program Research Assistant*
+StarBridge Program Research Assistant
 
 **Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Sept. – Dec. 2022*
+Sept. – Dec. 2022
 
-*Research Intern*
+Research Intern
 
 **Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Apr. 2021 – July 2022*
+Apr. 2021 – July 2022
 
-*Research Intern*
+Research Intern
 
 **John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*Apr. 2021 – June 2022*
+Apr. 2021 – June 2022
 
-*Research Intern*
+Research Intern
 
 **NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-*July – Sept. 2020*
+July – Sept. 2020
 
-*Research Intern*
+Research Intern
 
 ## Selected Projects
 
