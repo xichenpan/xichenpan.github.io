@@ -150,7 +150,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 ## Academic Service
 
-ICML'24, ACL'24, ECCV'24
+ICML'24, ACL'24, ECCV'24, TMLR, IJCV
 
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
