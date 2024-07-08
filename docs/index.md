@@ -33,6 +33,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 ## News
 
 === "2024"
+    [07/2024] I will join :fontawesome-brands-meta: Meta AI New York as a Visiting Researcher (AI Mentorship Program, 20%) in 2024 Fall.
 
     [02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/). See you in Seattle!
     
