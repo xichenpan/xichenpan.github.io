@@ -71,11 +71,17 @@ Sept. 2018 -- June 2022
 
 ## Publications & Manuscripts
 
+**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
+
+[Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
+
+Under Review&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page]([https://image-sculpting.github.io/](https://cambrian-mllm.github.io/))
+
 **Image Sculpting: Precise Object Editing with 3D Geometry Control**
 
 [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
 
-CVPR 2024&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
 
 **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
 
