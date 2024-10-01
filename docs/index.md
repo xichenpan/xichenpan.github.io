@@ -16,7 +16,7 @@ hide:
 
 ## Bio
 
-I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 through AIM Program), based on NYC office. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
+I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 AI Mentorship Program, 20% part-time), based on NYC office. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
 
 ## Research Interest
 
@@ -33,7 +33,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 ## News
 
 === "2024"
-    [07/2024] I will join :fontawesome-brands-meta: Meta AI New York as a Visiting Researcher (AI Mentorship Program, 20%) in 2024 Fall.
+    [07/2024] I will join :fontawesome-brands-meta: Meta AI New York office as a Visiting Researcher (2024-2025 AI Mentorship Program, 20% part-time) in 2024 Fall.
 
     [02/2024] Our paper was accepted by CVPR 2024, check it out [here](https://image-sculpting.github.io/). See you in Seattle!
     
@@ -109,9 +109,15 @@ Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)&nb
 
 ## Experience
 
+**Meta AI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
+
+Sept. 2024 – May. 2025
+
+Visiting Researcher (2024-2025 AI Mentorship Program, 20% part-time)
+
 **Meta GenAI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
-May. 2024 – Aug. 2024
+May. 2024 – Sept. 2024
 
 Research Scientist Intern
 
@@ -171,6 +177,8 @@ ICML'24, ACL'24, ECCV'24, TMLR, IJCV
     New York University: [List of My Labmates](https://www.sainingxie.com/), [Hexu Zhao](https://tarzanzhao.github.io/)
     
     Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
+
+    Oxford University: [Junlin Han](https://junlinhan.github.io/)
     
     Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/)
 
