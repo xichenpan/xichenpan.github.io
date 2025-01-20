@@ -61,7 +61,7 @@ Developing vision-language models for vision-centric applications, focusing on r
 
 Sept. 2023 -- Present
 
-**Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)
+**Ph.D. Student in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)
 
 ### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
 
@@ -163,7 +163,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 ## Academic Service
 
-ICML'24, ACL'24, ECCV'24, TMLR, IJCV
+ECCV'24, CVPR'25, ICLR'25, ICML'24/25, ACL'24, TMLR
 
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
