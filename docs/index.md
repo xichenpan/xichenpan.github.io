@@ -71,6 +71,12 @@ Sept. 2018 -- June 2022
 
 ## Publications & Manuscripts
 
+**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
+
+[Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
+
+Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
+
 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
 
 [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
