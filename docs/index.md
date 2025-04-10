@@ -71,6 +71,12 @@ Sept. 2018 -- June 2022
 
 ## Publications & Manuscripts
 
+**Transfer between Modalities with MetaQueries**
+
+<u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
+
+Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+
 **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
 
 [Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
