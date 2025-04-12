@@ -169,13 +169,18 @@ Research Intern
 
 An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
+# Talks
+
+Transfer between Modalities with MetaQueries
+Invited Talk @ SDLab, UCSD
+
 ## Media Exposures
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
 
 ## Academic Service
 
-ECCV'24, CVPR'25, ICLR'25, ICML'24/25, ACL'24, TMLR
+CVPR'25, ICCV'25, ECCV'24, ICLR'25, ICML'24/25, ACL'24, TMLR
 
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
