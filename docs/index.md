@@ -171,8 +171,9 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 # Talks
 
-Transfer between Modalities with MetaQueries
-Invited Talk @ SDLab, UCSD
+**Transfer between Modalities with MetaQueries**
+
+Invited Talk @ SDLab, UCSD / Adobe
 
 ## Media Exposures
 
