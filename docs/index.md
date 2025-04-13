@@ -169,7 +169,7 @@ Research Intern
 
 An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
-# Talks
+## Talks
 
 **Transfer between Modalities with MetaQueries**
 
