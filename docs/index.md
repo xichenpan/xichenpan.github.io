@@ -173,7 +173,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 **Transfer between Modalities with MetaQueries**
 
-Invited Talk @ SDLab, UCSD / Adobe
+Invited Talk @ UCSD SDLab / Adobe (incoming) / Runway (incoming) / OPPO (incoming)
 
 ## Media Exposures
 
