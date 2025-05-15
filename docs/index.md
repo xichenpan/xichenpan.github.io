@@ -18,18 +18,6 @@ hide:
 
 I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 AI Mentorship Program, 20% part-time), based on NYC office. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
 
-## Research Interest
-
-### Generative Models
-Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
-
-- Preserving spatial and temporal consistency
-
-- Leveraging text-to-image priors for advanced applications
-
-### Multimodal Learning
-Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
-
 ## News
 
 === "2024"
@@ -55,19 +43,15 @@ Developing vision-language models for vision-centric applications, focusing on r
     
     [02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
 
-## Education
+## Research Interest
 
-### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
+### Generative Models
+Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
+- Preserving spatial and temporal consistency
+- Leveraging text-to-image priors for advanced applications
 
-Sept. 2023 -- Present
-
-**Ph.D. Student in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)
-
-### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
-
-Sept. 2018 -- June 2022
-
-**B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)
+### Multimodal Learning
+Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
 
 ## Publications & Manuscripts
 <sup>\*</sup> denotes equal contribution
@@ -165,6 +149,20 @@ Sept. 2018 -- June 2022
     <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
     
     [ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
+
+## Education
+
+### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
+
+Sept. 2023 -- Present
+
+**Ph.D. Student in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)
+
+### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
+
+Sept. 2018 -- June 2022
+
+**B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)
 
 ## Experience
 
