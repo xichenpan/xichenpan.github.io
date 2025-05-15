@@ -16,7 +16,7 @@ hide:
 
 ## Bio
 
-I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 AI Mentorship Program, 20% part-time), based on NYC office. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
+I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 AI Mentorship Program, 20% part-time), based on NYC office. I am interested in designing more controlable generative models, and developing vision-centric multimodal models. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
 
 ## News
 
@@ -42,18 +42,6 @@ I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs
     [06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
     
     [02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
-
-## Research Interest
-
-### Generative Models
-Designing more controlable and high fidelity methods for image, video, and 3D generation, with a focus on:
-
-- Preserving spatial and temporal consistency
-
-- Leveraging text-to-image priors for advanced applications
-
-### Multimodal Learning
-Developing vision-language models for vision-centric applications, focusing on representation learning and self-supervised pre-training
 
 ## Publications & Manuscripts
 <sup>\*</sup> denotes equal contribution
