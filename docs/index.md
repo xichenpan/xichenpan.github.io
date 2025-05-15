@@ -70,6 +70,13 @@ Sept. 2018 -- June 2022
 **B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)
 
 ## Publications & Manuscripts
+[<sup>*</sup> denotes equal contribution]
+
+**BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
+
+[Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>*</sup>, <u>Xichen Pan</u><sup>*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+
+Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
 
 **Transfer between Modalities with MetaQueries**
 
