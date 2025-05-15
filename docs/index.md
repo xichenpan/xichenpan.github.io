@@ -70,7 +70,7 @@ Sept. 2018 -- June 2022
 **B.Eng. in Computer Science (Outstanding Graduate of Class 2022)**, advised by Prof. [Zhouhan Lin](https://hantek.github.io/)
 
 ## Publications & Manuscripts
-[<sup>\*</sup> denotes equal contribution]
+<sup>\*</sup> denotes equal contribution
 
 **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
 
