@@ -72,59 +72,99 @@ Sept. 2018 -- June 2022
 ## Publications & Manuscripts
 <sup>\*</sup> denotes equal contribution
 
-**BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
+=== "Selected Publications"
 
-[Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
+    
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    
+    **Transfer between Modalities with MetaQueries**
+    
+    <u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+    
+    **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
+    
+    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
+    
+    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)
+    
+    **Image Sculpting: Precise Object Editing with 3D Geometry Control**
+    
+    [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
+    
+    [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+    
+    **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
+    
+    <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
+    
+    [ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
+    
+    **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
+    
+    <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
+    
+    [WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
-Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+=== "All Publications"
 
-**Transfer between Modalities with MetaQueries**
-
-<u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
-
-Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
-
-**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
-
-[Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
-
-Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
-
-**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
-
-[Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
-
-[NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)
-
-**Image Sculpting: Precise Object Editing with 3D Geometry Control**
-
-[Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
-
-[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
-
-**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
-
-<u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
-
-[ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
-
-**Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
-
-<u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
-
-[WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
-
-**Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
-
-<u>Xichen Pan</u>
-
-Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
-
-**Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
-
-<u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
-
-[ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
+    **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
+    
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    
+    **Transfer between Modalities with MetaQueries**
+    
+    <u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+    
+    **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
+    
+    [Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
+    
+    **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
+    
+    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
+    
+    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)
+    
+    **Image Sculpting: Precise Object Editing with 3D Geometry Control**
+    
+    [Jiraphon Yenphraphai](https://domejiraphon.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Daniele Panozzo](http://cs.nyu.edu/~panozzo/), [Saining Xie](https://www.sainingxie.com/)
+    
+    [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Yenphraphai_Image_Sculpting_Precise_Object_Editing_with_3D_Geometry_Control_CVPR_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2401.01702)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/image-sculpting)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://image-sculpting.github.io/)
+    
+    **Kosmos-G: Generating Images in Context with Multimodal Large Language Models**
+    
+    <u>Xichen Pan</u>, [Li Dong](https://dong.li/), [Shaohan Huang](https://buaahsh.github.io/), [Zhiliang Peng](https://pengzhiliang.github.io/), [Wenhu Chen](https://wenhuchen.github.io/), [Furu Wei](https://thegenerality.com/)
+    
+    [ICLR 2024](https://openreview.net/forum?id=he6mX9LTyE&referrer=%5Bthe%20profile%20of%20Li%20Dong%5D(%2Fprofile%3Fid%3D~Li_Dong1))&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2310.02992)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://aka.ms/Kosmos-G)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/kosmosg/)
+    
+    **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**
+    
+    <u>Xichen Pan</u>, [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en), [Yuhong Li](https://colfire.github.io/), [Hui Xue](https://scholar.google.com/citations?user=lrf-wkQAAAAJ&hl=en), [Wenhu Chen](https://wenhuchen.github.io/)
+    
+    [WACV 2024 (Oral, Top 6% of accepted papers)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
+    
+    **Multimodal Audio-Visual Speech Recognition System Based On Pre-trained Models**
+    
+    <u>Xichen Pan</u>
+    
+    Bachelor thesis at Shanghai Jiao Tong University (Best Thesis Award, 1st/150)&nbsp;&nbsp;[:fontawesome-regular-newspaper: News](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm)&nbsp;&nbsp;[:fontawesome-solid-graduation-cap: Honor Roll](https://sjcg.jwc.sjtu.edu.cn/)
+    
+    **Leveraging Unimodal Self-Supervised Learning for Multimodal Audio-visual Speech Recognition**
+    
+    <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
+    
+    [ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
 
 ## Experience
 
