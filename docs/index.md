@@ -102,7 +102,7 @@ I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs
 
     [Bingda Tang](https://tang-bd.github.io/), [Boyang Zheng](http://www.boyangzheng.com/), <u>Xichen Pan</u>, [Sayak Paul](https://sayak.dev/), [Saining Xie](https://www.sainingxie.com/)
 
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.10046)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://github.com/tang-bd/fuse-dit)
+    CVPR 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.10046)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://github.com/tang-bd/fuse-dit)
     
     **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
     
