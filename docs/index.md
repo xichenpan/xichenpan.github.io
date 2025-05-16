@@ -97,6 +97,12 @@ I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs
     <u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
     Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+
+    **Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**
+
+    [Bingda Tang](https://tang-bd.github.io/), [Boyang Zheng](http://www.boyangzheng.com/), <u>Xichen Pan</u>, [Sayak Paul](https://sayak.dev/), [Saining Xie](https://www.sainingxie.com/)
+
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.10046)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://github.com/tang-bd/fuse-dit)
     
     **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
     
