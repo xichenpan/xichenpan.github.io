@@ -108,7 +108,7 @@ I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs
     
     [Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
+    ICML 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
     
     **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
     
