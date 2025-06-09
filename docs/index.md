@@ -222,7 +222,7 @@ Invited Talk @ Adobe / Runway / OPPO / UCSD SDLab
 
 ## Academic Service
 
-CVPR'25, ICCV'25, ECCV'24, ICLR'25, ICML'24/25, ACL'24, TMLR
+CVPR'25, ICCV'25, ECCV'24, ICLR'25, NeurIPS'25, ICML'24/25, ACL'24, TMLR
 
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
