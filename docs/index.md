@@ -216,10 +216,6 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 Invited Talk @ Adobe / Runway / OPPO / UCSD SDLab
 
-## Media Exposures
-
-[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://www.jiqizhixin.com/articles/2022-11-27), Synced
-
 ## Academic Service
 
 CVPR'25, ICCV'25, ECCV'24, ICLR'25, NeurIPS'25, ICML'24/25, ACL'24, TMLR
