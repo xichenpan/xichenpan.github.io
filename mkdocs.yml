@@ -39,9 +39,9 @@ extra:
     - icon: fontawesome/solid/envelope 
       link: mailto:xcpan.mail@gmail.com
     - icon: academicons/google-scholar
-      link: https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en
+      link: https://scholar.google.com/citations?hl=en&user=9wh9VXIAAAAJ&view_op=list_works&sortby=pubdate
     - icon: academicons/semantic-scholar
-      link: https://www.semanticscholar.org/author/Xichen-Pan/2158877024
+      link: https://www.semanticscholar.org/author/Xichen-Pan/2158877024?sort=pub-date
     - icon: fontawesome/brands/github 
       link: https://github.com/xichenpan
     - icon: fontawesome/brands/linkedin 
