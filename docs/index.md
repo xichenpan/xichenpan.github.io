@@ -101,6 +101,7 @@ I am a second-year Ph.D. student of Computer Science at [NYU Courant](https://cs
     **Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation**
     
     [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhaojiang Lin](https://zlinao.github.io), <u>Xichen Pan</u>, [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Madian Khabsa](https://www.madiankhabsa.com/), [Qifan Wang](https://wqfcr.github.io/), [Di Jin](https://jind11.github.io/), [Michihiro Yasunaga](https://cs.stanford.edu/~myasu/), [Lili Yu](https://scholar.google.com/citations?hl=en&user=wY932-AAAAAJ), [Xi Victoria Lin](https://victorialin.org/), [Shaoliang Nie](https://scholar.google.com/citations?user=5Ngbf_IAAAAJ&hl=en)
+    
     Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2506.10395)
 
     **Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**
