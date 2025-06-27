@@ -16,7 +16,7 @@ hide:
 
 ## Bio
 
-I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (2024-2025 AI Mentorship Program, 20% part-time), based on NYC office. I am interested in developing more controlable generative models, and vision-centric multimodal models. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
+I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (AI Mentorship Program, 20% part-time), based on NYC office. I am interested in developing more controlable generative models, and vision-centric multimodal models. I interned at Meta GenAI Emu team (2024 Summer with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 Fall with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
 
 ## News
 
@@ -170,9 +170,9 @@ Sept. 2018 -- June 2022
 
 **Meta AI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Sept. 2024 – May. 2025
+Sept. 2024 – Present
 
-Visiting Researcher (2024-2025 AI Mentorship Program, 20% part-time)
+Visiting Researcher (AI Mentorship Program, 20% part-time)
 
 **Meta GenAI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
