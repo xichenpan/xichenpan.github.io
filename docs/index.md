@@ -96,7 +96,7 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
     
     <u>Xichen Pan</u>, [Satya Narayan Shukla](https://satyanshukla.github.io/), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Zhuokai Zhao](https://zhuokai-zhao.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Kunpeng Li](https://kunpengli1994.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Ji Hou](https://sekunde.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2504.06256)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/facebookresearch/metaquery)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/collections/xcpan/metaquery-instruction-tuning-data-685b0f16d81ce54bcb7ea3a8)
 
     **Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation**
     
