@@ -20,6 +20,9 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## News
 
+=== "2025"
+    [08/2024] Happy to be extended for another year at Meta AI!
+
 === "2024"
     [07/2024] I will join :fontawesome-brands-meta: Meta AI New York office as a Visiting Researcher (2024-2025 AI Mentorship Program, 20% part-time) in 2024 Fall.
 
@@ -52,7 +55,7 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://github.com/vealocia), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Blog Post[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Blog Post&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
@@ -96,7 +99,7 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://github.com/vealocia), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Blog Post[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Blog Post&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
