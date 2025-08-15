@@ -48,6 +48,12 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 === "Selected Publications"
 
+    **BLIP3o-NEXT: A Next-Generation Multimodal Foundation Model**
+    
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://github.com/vealocia), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    
+    Blog Post[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
@@ -86,6 +92,12 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 === "All Publications"
 
+    **BLIP3o-NEXT: A Next-Generation Multimodal Foundation Model**
+    
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://github.com/vealocia), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    
+    Blog Post[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
