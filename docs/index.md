@@ -21,7 +21,7 @@ I am a third-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 ## News
 
 === "2025"
-    [08/2024] Happy to be extended for another year at Meta AI!
+    [08/2024] Happy to be extended for another year at :fontawesome-brands-meta: Meta AI!
 
 === "2024"
     [07/2024] I will join :fontawesome-brands-meta: Meta AI New York office as a Visiting Researcher (2024-2025 AI Mentorship Program, 20% part-time) in 2024 Fall.
