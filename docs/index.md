@@ -6,7 +6,7 @@ hide:
 
 # Xichen Pan ![](images/por.jpg){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
 
-:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)
+:fontawesome-solid-building: Office: [60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79) | [380 W 33rd St, New York, NY 10001](https://maps.app.goo.gl/Axw4Qbj5XRkmk15V7)
 
 :fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)
 
@@ -235,7 +235,7 @@ An open-source GitHub page built for reference in selecting CS programs in north
 
 **Transfer between Modalities with MetaQueries**
 
-Invited Talk @ Adobe / Runway / OPPO / UCSD SDLab
+Invited Talk @ Adobe / Runway / SEED / OPPO / UCSD SDLab
 
 ## Academic Service
 
