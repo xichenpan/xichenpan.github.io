@@ -185,43 +185,43 @@ Sept. 2018 -- June 2022
 
 **Meta AI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Sept. 2024 – Present
+Sept. 2024 -– Present
 
 Visiting Researcher (AI Mentorship Program, 20% part-time)
 
 **Meta GenAI**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
 
-May. 2024 – Sept. 2024
+May. 2024 –- Sept. 2024
 
 Research Scientist Intern
 
 **Microsoft Research Asia**![Image title](images/msra.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Dec. 2022 – Sept. 2023
+Dec. 2022 –- Sept. 2023
 
 StarBridge Program Research Assistant
 
 **Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Sept. – Dec. 2022
+Sept. 2022 –- Dec. 2022
 
 Research Intern
 
 **Horizon Robotics**![Image title](images/horizon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Apr. 2021 – July 2022
+Apr. 2021 –- July 2022
 
 Research Intern
 
 **John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-Apr. 2021 – June 2022
+Apr. 2021 –- June 2022
 
 Research Intern
 
 **NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-July – Sept. 2020
+July 2020 – Sept. 2020
 
 Research Intern
 
