@@ -242,29 +242,23 @@ Invited Talk @ Adobe / Runway / SEED / OPPO / UCSD SDLab
 CVPR'25/26, ICCV'25, ECCV'24, ICLR'25, NeurIPS'25, ICML'24/25/26, ACL'24, TMLR
 
 ??? tip "Some of My Friends"
-    Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/)
+    Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/), [Yiming Dou](https://dou-yiming.github.io/)
 
     CMU: [Kexun Zhang](https://zkx06111.github.io/)
 
     Georgia Tech: [Haotian Xue](https://xavihart.github.io/)
     
-    Neon, Inc.: [Alex Chi](https://www.skyzh.dev/)
-
-    New York University: [List of My Labmates](https://www.sainingxie.com/), [Hexu Zhao](https://tarzanzhao.github.io/)
+    NYU: [List of My Labmates](https://www.sainingxie.com/), [Hexu Zhao](https://tarzanzhao.github.io/)
     
-    Ohio State University: [Kai Zhang](https://drogozhang.github.io/)
+    OSU: [Kai Zhang](https://drogozhang.github.io/)
 
-    Oxford University: [Junlin Han](https://junlinhan.github.io/)
-    
-    Shanghai Jiao Tong University: [Xinyu Xu](https://xuxinyu.website/)
+    Oxford: [Junlin Han](https://junlinhan.github.io/)
 
     Stanford: [Yanjie Ze](https://yanjieze.com/)
 
     UC Berkeley: [Junyi Zhang](https://www.junyi42.com/), [Yichuan Wang](https://yichuan520030910320.github.io/)
-
-    UMich: [Yiming Dou](https://dou-yiming.github.io/)
                          
-    University of Washington: [Zihan Li](https://huanglizi.github.io/)
+    UW: [Zihan Li](https://huanglizi.github.io/)
     
     USC: [Di Chang](https://boese0601.github.io/)
 
