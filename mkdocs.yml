@@ -9,7 +9,7 @@ theme:
     accent: orange
   favicon: images/nyulogo.png
   icon:
-    logo: images/torch.png
+    logo: material/account-school
   font:
     text: Gabarito
     
