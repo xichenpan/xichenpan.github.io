@@ -199,7 +199,7 @@ Research Scientist Intern
 
 Dec. 2022 –- Sept. 2023
 
-StarBridge Program Research Assistant
+Research Intern
 
 **Alibaba Group**![Image title](images/alibaba.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
