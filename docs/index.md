@@ -219,12 +219,6 @@ Apr. 2021 –- June 2022
 
 Research Intern
 
-## Fun Projects
-
-**[:fontawesome-brands-github: Open CS Application](https://opencs.app/) [![](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io.svg?style=social)](https://github.com/opencsapp/opencsapp.github.io/stargazers)**
-
-An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
-
 ## Talks
 
 **Transfer between Modalities with MetaQueries**
@@ -234,6 +228,12 @@ Invited Talk @ Adobe / Runway / SEED / OPPO / UCSD SDLab
 ## Academic Service
 
 CVPR'25/26, ICCV'25, ECCV'24, ICLR'25, NeurIPS'25, ICML'24/25/26, ACL'24, TMLR
+
+## Fun Projects
+
+**[:fontawesome-brands-github: Open CS Application](https://opencs.app/) [![](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io.svg?style=social)](https://github.com/opencsapp/opencsapp.github.io/stargazers)**
+
+An open-source GitHub page built for reference in selecting CS programs in north America. The page is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and supports collaboration through Pull Requests and GitHub Actions.
 
 ??? tip "Some of My Friends"
     Cornell: [Youming Deng](https://denghilbert.github.io/), [Gene Chou](https://genechou.com/), [Yiming Dou](https://dou-yiming.github.io/)
