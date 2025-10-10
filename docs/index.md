@@ -14,8 +14,6 @@ hide:
 
 <span style=font-size:2em;">[:academicons-google-scholar:](https://scholar.google.com/citations?hl=en&user=9wh9VXIAAAAJ&view_op=list_works&sortby=pubdate) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024?sort=pub-date) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-x-twitter:](https://twitter.com/xichen_pan)</span>
 
-## Bio
-
 I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). I am also a Visiting Researcher at Meta AI (AI Mentorship Program, 20% part-time) since 2024, based in the NYC Farley office. My research interests include developing more controllable generative models and vision-centric multimodal models. I previously interned at the Meta GenAI Emu team (Summer 2024, with Dr. [Ji Hou](https://sekunde.github.io/)), Microsoft Research Asia (2022–2023, with Dr. [Li Dong](http://dong.li/)), Alibaba Group (Fall 2022, with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021–2022, with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Before my Ph.D., I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was advised by Prof. [Zhouhan Lin](https://hantek.github.io/) and received the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm).
 
 ## News
