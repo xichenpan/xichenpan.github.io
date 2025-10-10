@@ -12,7 +12,7 @@ hide:
 
 :fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)
 
-<span style=font-size:2em;">[:academicons-google-scholar:](https://scholar.google.com/citations?hl=en&user=9wh9VXIAAAAJ&view_op=list_works&sortby=pubdate) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024?sort=pub-date) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-x-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/xichenpan)</span>
+<span style=font-size:2em;">[:academicons-google-scholar:](https://scholar.google.com/citations?hl=en&user=9wh9VXIAAAAJ&view_op=list_works&sortby=pubdate) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024?sort=pub-date) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-x-twitter:](https://twitter.com/xichen_pan)</span>
 
 ## Bio
 
