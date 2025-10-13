@@ -95,6 +95,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
 === "All Publications"
 
+    **Think Then Embed: Generative Context Improves Multimodal Embedding**
+
+    [Xuanming Cui](https://xuanmingcui.github.io/), [Jianpeng Cheng](https://scholar.google.com/citations?user=51FYPYsAAAAJ&hl=zh-CN), [Hongyou Chen](https://scholar.google.com/citations?user=uxlU7J8AAAAJ&hl=en), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Abhijeet Awasthi](https://www.cse.iitb.ac.in/~awasthi/), <u>Xichen Pan</u>, [Chaitanya Ahuja](https://chahuja.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Qi Guo,](https://www.linkedin.com/in/qi-guo-3258b38/) [Ser-Nam Lim](https://sites.google.com/site/sernam), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/)
+
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.05014)
+
     **BLIP3o-NEXT: A Next-Generation Multimodal Foundation Model**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://github.com/vealocia), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
