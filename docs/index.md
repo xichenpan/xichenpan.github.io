@@ -53,9 +53,9 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
     **BLIP3o-NEXT: Next Frontier of Native Image Generation**
     
-    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
@@ -103,9 +103,9 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
     **BLIP3o-NEXT: Next Frontier of Native Image Generation**
     
-    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
+    [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
