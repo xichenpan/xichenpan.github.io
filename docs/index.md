@@ -51,6 +51,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
 === "Selected Publications"
 
+    **Exploring MLLM-Diffusion Information Transfer with MetaCanvas**
+
+    [Han Lin](https://hl-hanlin.github.io/), <u>Xichen Pan</u>, [Ziqi Huang](https://ziqihuangg.github.io/), [Ji Hou](https://sekunde.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Weifeng Chen](https://wfchen-umich.github.io/wfchen.github.io/), [Zecheng He](https://zechenghe.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Junzhe Sun](https://scholar.google.com/citations?user=wyi0bX0AAAAJ&hl=en), [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en), [Ali Thabet](https://www.alithabet.com/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Chu Wang](https://scholar.google.com/citations?user=5aaOtscAAAAJ&hl=en)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
+    
     **BLIP3o-NEXT: Next Frontier of Native Image Generation**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
@@ -94,6 +100,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     [WACV 2024 (Oral)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 === "All Publications"
+
+    **Exploring MLLM-Diffusion Information Transfer with MetaCanvas**
+
+    [Han Lin](https://hl-hanlin.github.io/), <u>Xichen Pan</u>, [Ziqi Huang](https://ziqihuangg.github.io/), [Ji Hou](https://sekunde.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Weifeng Chen](https://wfchen-umich.github.io/wfchen.github.io/), [Zecheng He](https://zechenghe.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Junzhe Sun](https://scholar.google.com/citations?user=wyi0bX0AAAAJ&hl=en), [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en), [Ali Thabet](https://www.alithabet.com/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Chu Wang](https://scholar.google.com/citations?user=5aaOtscAAAAJ&hl=en)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/metaquery/)
 
     **Think Then Embed: Generative Context Improves Multimodal Embedding**
 
