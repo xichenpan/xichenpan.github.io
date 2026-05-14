@@ -251,7 +251,7 @@ Invited Talk @ Adobe / Runway / SEED / OPPO / UCSD SDLab
 
 ## Academic Service
 
-CVPR'25/26, ICCV'25, ECCV'24, ICLR'25, NeurIPS'25, ICML'24/25/26, ACL'24, TMLR
+CVPR'25/26, ICCV'25, ECCV'24/26, ICLR'25/26, NeurIPS'25/26, ICML'24/25/26, ACL'24, TMLR
 
 ## Fun Projects
 
