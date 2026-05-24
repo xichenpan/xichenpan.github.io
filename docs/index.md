@@ -50,6 +50,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 <sup>\*</sup> denotes equal contribution
 
 === "Selected Publications"
+    
+    **Cambrian-P: Pose-Grounded Video Understanding**
+    
+    [Jihan Yang](https://jihanyang.com/)\*, [Zifan Zhao](https://www.zifanzhao.com/)\*, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2605.22819)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Models](https://hf.co/collections/nyu-visionx/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/nyu-visionx/Cambrian-P-Data)
 
     **Exploring MLLM-Diffusion Information Transfer with MetaCanvas**
 
@@ -100,6 +106,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     [WACV 2024 (Oral)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 === "All Publications"
+
+    **Cambrian-P: Pose-Grounded Video Understanding**
+    
+    [Jihan Yang](https://jihanyang.com/)\*, [Zifan Zhao](https://www.zifanzhao.com/)\*, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2605.22819)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Models](https://hf.co/collections/nyu-visionx/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/nyu-visionx/Cambrian-P-Data)
 
     **V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising**
 
