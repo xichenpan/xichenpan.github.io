@@ -53,7 +53,7 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     
     **Cambrian-P: Pose-Grounded Video Understanding**
     
-    [Jihan Yang](https://jihanyang.com/)\*, [Zifan Zhao](https://www.zifanzhao.com/)\*, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    [Jihan Yang](https://jihanyang.com/)<sup>\*</sup>, [Zifan Zhao](https://www.zifanzhao.com/)<sup>\*</sup>, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
     Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2605.22819)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Models](https://hf.co/collections/nyu-visionx/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/nyu-visionx/Cambrian-P-Data)
 
@@ -67,13 +67,13 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/BLIP3o/datasets)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/BLIP3o/BLIP3o-60k)
     
     **Transfer between Modalities with MetaQueries**
     
@@ -83,9 +83,9 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     
     **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
     
-    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
+    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.com/), [Shusheng Yang](https://shushengyang.com/), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
     
-    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)
+    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/collections/nyu-visionx/cambrian-1-models)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/collections/nyu-visionx/cambrian-data)
     
     **Image Sculpting: Precise Object Editing with 3D Geometry Control**
     
@@ -109,7 +109,7 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
     **Cambrian-P: Pose-Grounded Video Understanding**
     
-    [Jihan Yang](https://jihanyang.com/)\*, [Zifan Zhao](https://www.zifanzhao.com/)\*, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    [Jihan Yang](https://jihanyang.com/)<sup>\*</sup>, [Zifan Zhao](https://www.zifanzhao.com/)<sup>\*</sup>, [<u>Xichen Pan</u>](https://xichenpan.com/), [Shusheng Yang](https://shushengyang.com/), [Junyi Zhang](https://www.junyi42.com/), [Bingyi Kang](https://bingyikang.com/), [Hu Xu](https://howardhsu.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
     Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2605.22819)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Models](https://hf.co/collections/nyu-visionx/cambrian-p)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/nyu-visionx/Cambrian-P-Data)
 
@@ -117,17 +117,17 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
     [Han Lin](https://hl-hanlin.github.io/), <u>Xichen Pan</u>, [Zun Wang](https://zunwang1.github.io/), [Yue Zhang](https://zhangyuejoslin.github.io/), [Chu Wang](https://scholar.google.com/citations?user=5aaOtscAAAAJ&hl=en), [Jaemin Cho](https://j-min.io/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2603.16792)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/HL-hanlin/V-Co)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2603.16792)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/HL-hanlin/V-Co)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/hanlincs/V-Co)
 
     **Exploring MLLM-Diffusion Information Transfer with MetaCanvas**
 
     [Han Lin](https://hl-hanlin.github.io/), <u>Xichen Pan</u>, [Ziqi Huang](https://ziqihuangg.github.io/), [Ji Hou](https://sekunde.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Weifeng Chen](https://wfchen-umich.github.io/wfchen.github.io/), [Zecheng He](https://zechenghe.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Junzhe Sun](https://scholar.google.com/citations?user=wyi0bX0AAAAJ&hl=en), [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en), [Ali Thabet](https://www.alithabet.com/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Chu Wang](https://scholar.google.com/citations?user=5aaOtscAAAAJ&hl=en)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://metacanvas.github.io/)
 
     **Think Then Embed: Generative Context Improves Multimodal Embedding**
 
-    [Xuanming Cui](https://xuanmingcui.github.io/), [Jianpeng Cheng](https://scholar.google.com/citations?user=51FYPYsAAAAJ&hl=zh-CN), [Hongyou Chen](https://scholar.google.com/citations?user=uxlU7J8AAAAJ&hl=en), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Abhijeet Awasthi](https://www.cse.iitb.ac.in/~awasthi/), <u>Xichen Pan</u>, [Chaitanya Ahuja](https://chahuja.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Qi Guo,](https://www.linkedin.com/in/qi-guo-3258b38/) [Ser-Nam Lim](https://sites.google.com/site/sernam), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/)
+    [Xuanming Cui](https://xuanmingcui.github.io/), [Jianpeng Cheng](https://scholar.google.com/citations?user=51FYPYsAAAAJ&hl=zh-CN), [Hongyou Chen](https://scholar.google.com/citations?user=uxlU7J8AAAAJ&hl=en), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Abhijeet Awasthi](https://www.cse.iitb.ac.in/~awasthi/), <u>Xichen Pan</u>, [Chaitanya Ahuja](https://chahuja.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Qi Guo](https://www.linkedin.com/in/qi-guo-3258b38/), [Ser-Nam Lim](https://sites.google.com/site/sernam), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/)
 
     Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.05014)
 
@@ -135,13 +135,13 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), <u>Xichen Pan</u>, [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Can Qin](https://canqin.tech/), [An Yan](https://zzxslp.github.io/), [Honglu Zhou](https://sites.google.com/view/hongluzhou/), [Zeyuan Chen](https://www.salesforce.com/blog/author/zeyuan-chen/), [Tianyi Zhou](https://tianyizhou.github.io/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.15857)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/BLIP3o/datasets)
     
     **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset**
     
     [Jiuhai Chen](https://scholar.google.com/citations?user=eJP77eoAAAAJ&hl=en)<sup>\*</sup>, [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en)<sup>\*</sup>, <u>Xichen Pan</u><sup>\*</sup>, [Yushi Hu](https://yushi-hu.github.io/)<sup>\*</sup>, [Can Qin](https://canqin.tech/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Lifu Huang](https://wilburone.github.io/), [Tianyi Zhou](https://tianyizhou.github.io/), [Saining Xie](https://www.sainingxie.com/), [Silvio Savarese](http://cvgl.stanford.edu/silvio/), [Le Xue](https://scholar.google.com/citations?user=2_SZkwMAAAAJ&hl=en), [Caiming Xiong](http://cmxiong.com/), [Ran Xu](https://xurantju.github.io/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.09568)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/JiuhaiChen/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/BLIP3o)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/datasets/BLIP3o/BLIP3o-60k)
     
     **Transfer between Modalities with MetaQueries**
     
@@ -159,19 +159,19 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 
     [Bingda Tang](https://tang-bd.github.io/), [Boyang Zheng](http://www.boyangzheng.com/), <u>Xichen Pan</u>, [Sayak Paul](https://sayak.dev/), [Saining Xie](https://www.sainingxie.com/)
 
-    CVPR 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.10046)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://github.com/tang-bd/fuse-dit)
+    CVPR 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2505.10046)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/tang-bd/fuse-dit)
     
     **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**
     
     [Chenyu Li](https://lichenyu20.github.io/), [Oscar Michel](https://ojmichel.github.io/), <u>Xichen Pan</u>, [Sainan Liu](https://www.linkedin.com/in/sainan-stephanie-liu/), [Mike Roberts](https://mikeroberts3000.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
-    ICML 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/#)
+    ICML 2025&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2503.09595)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://vision-x-nyu.github.io/pisa-experiments.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/vision-x-nyu/pisa-experiments)&nbsp;&nbsp;[:simple-huggingface: Data/Models](https://huggingface.co/datasets/nyu-visionx/pisa-experiments)
     
     **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**
     
-    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://scholar.google.com/citations?user=v6dmW5cntoMC), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
+    [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.com/), [Shusheng Yang](https://shushengyang.com/), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/)
     
-    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)
+    [NeurIPS 2024 (Oral)](https://neurips.cc/virtual/2024/oral/97972)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.16860)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://cambrian-mllm.github.io/)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/cambrian-mllm/cambrian)&nbsp;&nbsp;[:simple-huggingface: Models](https://huggingface.co/collections/nyu-visionx/cambrian-1-models)&nbsp;&nbsp;[:simple-huggingface: Data](https://huggingface.co/collections/nyu-visionx/cambrian-data)
     
     **Image Sculpting: Precise Object Editing with 3D Geometry Control**
     
@@ -202,7 +202,7 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     <u>Xichen Pan</u>, [Peiyu Chen](https://www.linkedin.com/in/peiyu-chen-9b407a218/), [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en), [Helong Zhou](https://scholar.google.com/citations?user=wkhOMMwAAAAJ&hl=zh-CN), [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), [Zhouhan Lin](https://hantek.github.io/)
     
     [ACL 2022 Main Conference](https://aclanthology.org/2022.acl-long.308/)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2203.07996)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/LUMIA-Group/Leveraging-Self-Supervised-Learning-for-AVSR)
-
+    
 ## Education
 
 ### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
