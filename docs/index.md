@@ -50,6 +50,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
 <sup>\*</sup> denotes equal contribution
 
 === "Selected Publications"
+
+    **RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space**
+    
+    <u>Xichen Pan</u>, [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2606.14700)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/repfusion/)
     
     **Cambrian-P: Pose-Grounded Video Understanding**
     
@@ -106,6 +112,12 @@ I am a third-year Ph.D. student in Computer Science at [NYU Courant](https://cs.
     [WACV 2024 (Oral)](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)&nbsp;&nbsp;[:academicons-arxiv: arXiv](http://arxiv.org/abs/2211.10950)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/xichenpan/ARLDM)
 
 === "All Publications"
+
+    **RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space**
+    
+    <u>Xichen Pan</u>, [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Saining Xie](https://www.sainingxie.com/)
+    
+    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2606.14700)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/repfusion/)
 
     **Cambrian-P: Pose-Grounded Video Understanding**
     
