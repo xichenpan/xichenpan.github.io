@@ -55,7 +55,7 @@ I am a fourth-year Ph.D. student in Computer Science at [NYU Courant](https://cs
     
     <u>Xichen Pan</u>, [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Saining Xie](https://www.sainingxie.com/)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2606.14700)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/repfusion/)
+    NeurIPS 2026&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2606.14700)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://xichenpan.com/repfusion/)
     
     **Cambrian-P: Pose-Grounded Video Understanding**
     
@@ -67,7 +67,7 @@ I am a fourth-year Ph.D. student in Computer Science at [NYU Courant](https://cs
 
     [Han Lin](https://hl-hanlin.github.io/), <u>Xichen Pan</u>, [Ziqi Huang](https://ziqihuangg.github.io/), [Ji Hou](https://sekunde.github.io/), [Jialiang Wang](https://sites.google.com/view/jialiangwang/home), [Weifeng Chen](https://wfchen-umich.github.io/wfchen.github.io/), [Zecheng He](https://zechenghe.github.io/), [Felix Juefei-Xu](https://xujuefei.com/), [Junzhe Sun](https://scholar.google.com/citations?user=wyi0bX0AAAAJ&hl=en), [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en), [Ali Thabet](https://www.alithabet.com/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), [Chu Wang](https://scholar.google.com/citations?user=5aaOtscAAAAJ&hl=en)
     
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://metacanvas.github.io/)
+    NeurIPS 2026&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2512.11464)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://metacanvas.github.io/)
     
     **BLIP3o-NEXT: Next Frontier of Native Image Generation**
     
