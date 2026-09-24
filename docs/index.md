@@ -141,7 +141,7 @@ I am a fourth-year Ph.D. student in Computer Science at [NYU Courant](https://cs
 
     [Xuanming Cui](https://xuanmingcui.github.io/), [Jianpeng Cheng](https://scholar.google.com/citations?user=51FYPYsAAAAJ&hl=zh-CN), [Hongyou Chen](https://scholar.google.com/citations?user=uxlU7J8AAAAJ&hl=en), [Satya Narayan Shukla](https://satyanshukla.github.io/), [Abhijeet Awasthi](https://www.cse.iitb.ac.in/~awasthi/), <u>Xichen Pan</u>, [Chaitanya Ahuja](https://chahuja.com/), [Shlok Kumar Mishra](https://shlokk.github.io/shlokmishra.github.io/), [Qi Guo](https://www.linkedin.com/in/qi-guo-3258b38/), [Ser-Nam Lim](https://sites.google.com/site/sernam), [Aashu Singh](https://www.linkedin.com/in/aashu-singh-030ab646/), [Xiangjun Fan](https://www.linkedin.com/in/xiangjun-max-fan-7984b12b/)
 
-    Preprint&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.05014)
+    ICLR 2026&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2510.05014)
 
     **BLIP3o-NEXT: Next Frontier of Native Image Generation**
     
